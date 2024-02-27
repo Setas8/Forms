@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProducto>
+  <Producto>
+    <Codigo>1</Codigo>
+    <Descripcion>Aceite de almendras       </Descripcion>
+    <Precio>8</Precio>
+    <Cantidad>15</Cantidad>
+  </Producto>
+  <Producto>
+    <Codigo>2</Codigo>
+    <Descripcion>Aceite de romero          </Descripcion>
+    <Precio>9.5</Precio>
+    <Cantidad>25</Cantidad>
+  </Producto>
+  <Producto>
+    <Codigo>3</Codigo>
+    <Descripcion>Toalla talla grande       </Descripcion>
+    <Precio>20</Precio>
+    <Cantidad>5</Cantidad>
+  </Producto>
+  <Producto>
+    <Codigo>4</Codigo>
+    <Descripcion>Toalla talla mediana      </Descripcion>
+    <Precio>12.5</Precio>
+    <Cantidad>20</Cantidad>
+  </Producto>
+  <Producto>
+    <Codigo>5</Codigo>
+    <Descripcion>Toalla talla pequeña      </Descripcion>
+    <Precio>12</Precio>
+    <Cantidad>10</Cantidad>
+  </Producto>
+  <Producto>
+    <Codigo>1</Codigo>
+    <Descripcion>Camilla de masaje         </Descripcion>
+    <Precio>480</Precio>
+    <Cantidad>5</Cantidad>
+  </Producto>
+  <Producto>
+    <Codigo>1</Codigo>
+    <Descripcion>Crema hidratante          </Descripcion>
+    <Precio>12.5</Precio>
+    <Cantidad>50</Cantidad>
+  </Producto>
+</ArrayOfProducto>

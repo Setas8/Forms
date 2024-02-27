@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUsuario>
+  <Usuario>
+    <Id>admin</Id>
+    <Clave>admin</Clave>
+    <Mail>admin@admin</Mail>
+  </Usuario>
+  <Usuario>
+    <Id>diego</Id>
+    <Clave>1234</Clave>
+    <Mail>diego@diego</Mail>
+  </Usuario>
+</ArrayOfUsuario>

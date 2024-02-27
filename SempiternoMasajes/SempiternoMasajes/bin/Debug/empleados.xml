@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmpleado>
+  <Empleado>
+    <Dni>88888888Y</Dni>
+    <Nombre>Diego        </Nombre>
+    <Apellido1>Cuadrado     </Apellido1>
+    <Apellido2 />
+    <Puesto>Masajista    </Puesto>
+    <Telefono>888888888</Telefono>
+    <NumSS>888888888</NumSS>
+    <FechaNacimiento>1980-10-01T00:00:00</FechaNacimiento>
+    <Alta>true</Alta>
+  </Empleado>
+  <Empleado>
+    <Dni>44444444A</Dni>
+    <Nombre>Ernesto      </Nombre>
+    <Apellido1>Manitas      </Apellido1>
+    <Apellido2 />
+    <Puesto>Mantenimiento    </Puesto>
+    <Telefono>444444444</Telefono>
+    <NumSS>444444444</NumSS>
+    <FechaNacimiento>1978-10-01T00:00:00</FechaNacimiento>
+    <Alta>true</Alta>
+  </Empleado>
+  <Empleado>
+    <Dni>22222222J</Dni>
+    <Nombre>Rosi         </Nombre>
+    <Apellido1>Manos        </Apellido1>
+    <Apellido2>Suaves       </Apellido2>
+    <Puesto>Masajista    </Puesto>
+    <Telefono>222222222</Telefono>
+    <NumSS>222222222</NumSS>
+    <FechaNacimiento>1981-07-30T00:00:00</FechaNacimiento>
+    <Alta>true</Alta>
+  </Empleado>
+  <Empleado>
+    <Dni>77777777B</Dni>
+    <Nombre>Luis         </Nombre>
+    <Apellido1>Siempre      </Apellido1>
+    <Apellido2>Baja         </Apellido2>
+    <Puesto>Masajista    </Puesto>
+    <Telefono>777777777</Telefono>
+    <NumSS>777777777</NumSS>
+    <FechaNacimiento>1987-07-07T00:00:00</FechaNacimiento>
+    <Alta>false</Alta>
+  </Empleado>
+  <Empleado>
+    <Dni>11111111H</Dni>
+    <Nombre>Raquel       </Nombre>
+    <Apellido1>Alteléfono   </Apellido1>
+    <Apellido2 />
+    <Puesto>Recepcionista  </Puesto>
+    <Telefono>111111111</Telefono>
+    <NumSS>111111111</NumSS>
+    <FechaNacimiento>1980-07-17T00:00:00</FechaNacimiento>
+    <Alta>true</Alta>
+  </Empleado>
+  <Empleado>
+    <Dni>33333333P</Dni>
+    <Nombre>Cristina     </Nombre>
+    <Apellido1>Fiol         </Apellido1>
+    <Apellido2>Jefecilla    </Apellido2>
+    <Puesto>Anfitrión    </Puesto>
+    <Telefono>333333333</Telefono>
+    <NumSS>333333333</NumSS>
+    <FechaNacimiento>1988-12-14T00:00:00</FechaNacimiento>
+    <Alta>true</Alta>
+  </Empleado>
+  <Empleado>
+    <Dni>66666666Q</Dni>
+    <Nombre>Omar         </Nombre>
+    <Apellido1>Llegatarde   </Apellido1>
+    <Apellido2 />
+    <Puesto>Masajista    </Puesto>
+    <Telefono>666666666</Telefono>
+    <NumSS>666666666</NumSS>
+    <FechaNacimiento>1991-04-11T00:00:00</FechaNacimiento>
+    <Alta>true</Alta>
+  </Empleado>
+</ArrayOfEmpleado>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfServicio>
+  <Servicio>
+    <Tipo>Quiromasaje     </Tipo>
+    <Tiempo>30 min          </Tiempo>
+    <Fecha>2023-12-06T19:50:12</Fecha>
+    <Hora>10:00 am        </Hora>
+    <Masajista>Diego           </Masajista>
+    <Cliente>Natalia         </Cliente>
+  </Servicio>
+  <Servicio>
+    <Tipo>Quiromasaje     </Tipo>
+    <Tiempo>1 hora          </Tiempo>
+    <Fecha>2023-12-06T19:50:12</Fecha>
+    <Hora>11:00 am        </Hora>
+    <Masajista>Rosi            </Masajista>
+    <Cliente>Alejandro       </Cliente>
+  </Servicio>
+  <Servicio>
+    <Tipo>Reflexología    </Tipo>
+    <Tiempo>1 hora          </Tiempo>
+    <Fecha>2023-12-15T19:50:43</Fecha>
+    <Hora>12:00 am        </Hora>
+    <Masajista>Diego           </Masajista>
+    <Cliente>Natalia         </Cliente>
+  </Servicio>
+  <Servicio>
+    <Tipo>Quiromasaje     </Tipo>
+    <Tiempo>1 hora y media  </Tiempo>
+    <Fecha>2023-12-13T19:51:03</Fecha>
+    <Hora>10:00 am        </Hora>
+    <Masajista>Omar            </Masajista>
+    <Cliente>Raúl            </Cliente>
+  </Servicio>
+  <Servicio>
+    <Tipo>Reflexología    </Tipo>
+    <Tiempo>1 hora          </Tiempo>
+    <Fecha>2023-12-16T19:51:23</Fecha>
+    <Hora>11:00 am        </Hora>
+    <Masajista>Rosi            </Masajista>
+    <Cliente>Alejandro       </Cliente>
+  </Servicio>
+  <Servicio>
+    <Tipo>Quiromasaje     </Tipo>
+    <Tiempo>45 min          </Tiempo>
+    <Fecha>2023-12-19T19:51:41</Fecha>
+    <Hora>17:00 pm        </Hora>
+    <Masajista>Omar            </Masajista>
+    <Cliente>Jesús           </Cliente>
+  </Servicio>
+</ArrayOfServicio>

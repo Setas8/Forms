@@ -1,0 +1,300 @@
+C:\Users\Ernie\Source\Repos\SempiternoMasajes\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe.config
+C:\Users\Ernie\Source\Repos\SempiternoMasajes\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe
+C:\Users\Ernie\Source\Repos\SempiternoMasajes\SempiternoMasajes\bin\Debug\SempiternoMasajes.pdb
+C:\Users\Ernie\Source\Repos\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.AssemblyReference.cache
+C:\Users\Ernie\Source\Repos\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULADRIOS.form_Inicio.resources
+C:\Users\Ernie\Source\Repos\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_Principal.resources
+C:\Users\Ernie\Source\Repos\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroUsuario.resources
+C:\Users\Ernie\Source\Repos\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.Properties.Resources.resources
+C:\Users\Ernie\Source\Repos\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.GenerateResource.cache
+C:\Users\Ernie\Source\Repos\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.CoreCompileInputs.cache
+C:\Users\Ernie\Source\Repos\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.exe
+C:\Users\Ernie\Source\Repos\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.pdb
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe.config
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\SempiternoMasajes.pdb
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Buffers.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Memory.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Text.Json.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.ValueTuple.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Buffers.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Memory.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Text.Json.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\bin\Debug\System.ValueTuple.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.AssemblyReference.cache
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_compraVentaProductos.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ConsultaProductos.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_Estadisticas.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionProductos.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULADRIOS.form_Inicio.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_Principal.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroUsuario.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.Properties.Resources.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.GenerateResource.cache
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.CoreCompileInputs.cache
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.CopyComplete
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.exe
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.pdb
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ModificarProducto.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroProducto.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionClientes.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionEmpleados.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionIncidencias.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionQuiromasaje.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionReflexologia.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_HistorialIncidencias.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroEmpleados.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroIncidencia.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionUsuarios.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroCliente.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(22Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ConsultaServicios.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe.config
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\SempiternoMasajes.pdb
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Buffers.dll
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Memory.dll
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Text.Json.dll
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.ValueTuple.dll
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Buffers.xml
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Memory.xml
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Text.Json.xml
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.ValueTuple.xml
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.AssemblyReference.cache
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_compraVentaProductos.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ConsultaProductos.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_Estadisticas.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionClientes.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionEmpleados.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionIncidencias.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionProductos.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionQuiromasaje.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionReflexologia.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionUsuarios.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ConsultaServicios.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_HistorialIncidencias.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULADRIOS.form_Inicio.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ModificarProducto.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_Principal.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroCliente.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroEmpleados.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroIncidencia.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroProducto.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroUsuario.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.Properties.Resources.resources
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.GenerateResource.cache
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.CoreCompileInputs.cache
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.CopyComplete
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.exe
+C:\Users\Ernie\Desktop\COPIA SEGURIDAD 2DAM\Interfaces\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.pdb
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe.config
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\SempiternoMasajes.pdb
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Buffers.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Memory.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Text.Json.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.ValueTuple.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Buffers.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Memory.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Text.Json.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\bin\Debug\System.ValueTuple.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.AssemblyReference.cache
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_compraVentaProductos.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ConsultaProductos.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_Estadisticas.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionClientes.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionEmpleados.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionIncidencias.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionProductos.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionQuiromasaje.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionReflexologia.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionUsuarios.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ConsultaServicios.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_HistorialIncidencias.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULADRIOS.form_Inicio.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ModificarProducto.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_Principal.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroCliente.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroEmpleados.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroIncidencia.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroProducto.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroUsuario.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.Properties.Resources.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.GenerateResource.cache
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.CoreCompileInputs.cache
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.CopyComplete
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.exe
+C:\Users\Setas\Desktop\SempiternoMasajes(27Nov)\SempiternoMasajes\obj\Debug\SempiternoMasajes.pdb
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe.config
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\SempiternoMasajes.pdb
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Buffers.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Memory.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Text.Json.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.ValueTuple.dll
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Buffers.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Memory.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Text.Json.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.ValueTuple.xml
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.AssemblyReference.cache
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_compraVentaProductos.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ConsultaProductos.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_Estadisticas.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionClientes.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionEmpleados.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionIncidencias.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionProductos.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionQuiromasaje.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionReflexologia.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionUsuarios.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ConsultaServicios.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_HistorialIncidencias.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULADRIOS.form_Inicio.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ModificarProducto.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_Principal.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroCliente.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroEmpleados.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroIncidencia.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroProducto.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroUsuario.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.Properties.Resources.resources
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.GenerateResource.cache
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.CoreCompileInputs.cache
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.CopyComplete
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.exe
+C:\Users\Setas\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.pdb
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe.config
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\SempiternoMasajes.pdb
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Buffers.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Memory.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Text.Json.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.ValueTuple.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Buffers.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Memory.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Text.Json.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\bin\Debug\System.ValueTuple.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.AssemblyReference.cache
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_compraVentaProductos.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ConsultaProductos.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_Estadisticas.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionClientes.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionEmpleados.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionIncidencias.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionProductos.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionQuiromasaje.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionReflexologia.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionUsuarios.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ConsultaServicios.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_HistorialIncidencias.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULADRIOS.form_Inicio.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ModificarProducto.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_Principal.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroCliente.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroEmpleados.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroIncidencia.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroProducto.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroUsuario.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.Properties.Resources.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.GenerateResource.cache
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.CoreCompileInputs.cache
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.CopyComplete
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.exe
+C:\Users\Ernie\Desktop\SempiternoMasajes(30 NOV)\SempiternoMasajes\obj\Debug\SempiternoMasajes.pdb
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe.config
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\SempiternoMasajes.exe
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\SempiternoMasajes.pdb
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Buffers.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Memory.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Text.Json.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.ValueTuple.dll
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Buffers.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Memory.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Text.Json.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\bin\Debug\System.ValueTuple.xml
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.AssemblyReference.cache
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_compraVentaProductos.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ConsultaProductos.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ConsultaServicios.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_Estadisticas.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionClientes.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionEmpleados.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionIncidencias.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionProductos.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionQuiromasaje.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionReflexologia.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_GestionUsuarios.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_HistorialIncidencias.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULADRIOS.form_Inicio.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_ModificarProducto.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_Principal.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroCliente.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroEmpleados.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroIncidencia.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroProducto.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.FORMULARIOS.form_RegistroUsuario.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.Properties.Resources.resources
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.GenerateResource.cache
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.CoreCompileInputs.cache
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.csproj.CopyComplete
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.exe
+C:\Users\Ernie\Desktop\SempiternoMasajes\SempiternoMasajes\obj\Debug\SempiternoMasajes.pdb
