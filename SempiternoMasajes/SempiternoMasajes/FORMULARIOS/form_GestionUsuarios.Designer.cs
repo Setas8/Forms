@@ -79,7 +79,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "form_GestionUsuarios";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Gestión de usuarios";
+            this.Text = "0";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.form_GestionEmpleados_FormClosing);
             this.Load += new System.EventHandler(this.form_GestionUsuarios_Load);
             this.ResumeLayout(false);
